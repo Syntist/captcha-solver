@@ -1,4 +1,4 @@
-# captcha-solver
+# Captcha Solver
 Trained  Model using CNN to solve captcha
 
 ## Dataset
